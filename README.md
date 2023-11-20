@@ -41,7 +41,7 @@ over in the [BOM](BOM.md), which is short for Bill of Materials.
 Once you've collected and assembled everything you need, you'll be
 ready to play your first game.
 
-Follow the instructions in the [`doc`](doc/) folder to setup and play.
+Follow the instructions in the [`docs`](docs/) folder to setup and play.
 
 You can also follow the instructor tutorial videos below.
 
