@@ -42,6 +42,30 @@ You can optionally get a private key set made, or make one using the backs of tr
 
 Using the above, you'll need to assemble the following items.
 
+### Mempool + UTXO Baskets
+
+These are for transactions that your node has recieved, either from
+the network or inside a block.
+
+They need to be labeled before playing.
+
+FIXME: Photo of baskets!
+
+#### Materials Required
+
+You should have the following
+
+- 12 Plastic Baskets
+- 6 Mempool Stickers
+- 6 UTXO set Stickers
+
+
+#### Steps
+
+For each basket:
+
+1. Place 1 Sticker in the middle bottom of the basket
+
 
 ### Block Templates
 
@@ -51,14 +75,14 @@ You'll need to put the block templates together.
 
 FIXME: picture of an empty block template
 
-### Materials Required
+#### Materials Required
 
 You should have 60 of the following
 
 - Plastic Card Holders
 - A1 Envelopes
 
-### Steps
+#### Steps
 
 For each block (60):
 
@@ -74,7 +98,11 @@ first ever bitcoin transaction. It's also a coinbase transaction.
 
 FIXME: picture of a genesis transaction.
 
-### Steps 
+#### Materials Required
+
+- 6 blank transaction cards
+
+#### Steps 
 
 For each node (6), do the following.
 
@@ -104,7 +132,7 @@ Satoshi Nakamoto mined it and then put it inside bitcoin-core. (Hardcoded it).
 
 FIXME: photo of a completed genesis block
 
-#### Materials
+#### Materials Required
 
 We'll need the following materials to build genesis blocks for each of the nodes.
 
@@ -138,6 +166,10 @@ sure the transaction is still valid.
 
 FIXME: picture of a first transaction.
 
+#### Materials Required
+
+- 6 blank transaction cards
+
 #### Steps
 
 For each node (6), do the following.
@@ -158,6 +190,22 @@ For each node (6), do the following.
    #2
 	- amount: 8
 	- pubkey: place a red lock sticker
+
+
+### Blockchain
+
+A blockchain is a file folder full of blocks.
+
+#### Materials Required
+
+- 6 Genesis Blocks
+- 6 3 x 5" Index Card Case
+
+#### Steps
+
+For each Index Card Case
+
+1. Place a Genesis Block inside
 
 
 ### Secret Key Cards
