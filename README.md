@@ -8,6 +8,8 @@
 ## About the Game
 
 The Bitcoin LARP is designed for 12 to 36 players, divided into 6 groups.
+It typically runs for 90m to 2hrs, depending on the group size and
+experience level.
 
 The game has been played at bitcoin conferences and meetups world-wide,
 and is a fantastic yet challenging way to really understand what is
