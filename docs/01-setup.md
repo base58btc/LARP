@@ -1,8 +1,14 @@
 # Setup
 
+Before you start the LARP you'll need to do some prep work.
+
+Estimated time: 5m
+
 ## Table of Contents
 
-FIXME
+  * [To Start](#to-start)
+  * [Room Configuration](#room-configuration)
+  * [Materials for Each Node](#materials-for-each-node)
 
 ## To Start
 
@@ -20,11 +26,14 @@ enough chairs for 2-6 players.
 A cafe table or banquet setup often works quite well.
 
 
-## Materials for Each Node ('bitcoin-core download')
+## Materials for Each Node
 
 Each node needs to receive the following materials.
 
 I'd recommend placing all items inside one of the Plastic Baskets.
+
+See the [Bill of Materials](../BOM.md) for what to get
+and how to make each of the required parts.
 
 	- 1 Plastic Basket labeled Mempool
 	- 1 Plastic Basket labeled UTXO set

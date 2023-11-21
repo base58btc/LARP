@@ -4,6 +4,19 @@ These are the materials needed to build a LARP gameset.
 
 All counts are for a 6-node LARP gameset. 
 
+## Table of Contents
+
+  * [Raw Materials](#raw-materials)
+    * [Optional Items](#optional-items)
+  * [Things to Build / Put Together](#things-to-build-put-together)
+    * [Mempool + UTXO Baskets](#mempool-utxo-baskets)
+    * [Block Templates](#block-templates)
+    * [Genesis Transaction](#genesis-transaction)
+    * [Genesis Blocks](#genesis-blocks)
+    * [First Network Transaction](#first-network-transaction)
+    * [Blockchain](#blockchain)
+    * [Secret Key Cards](#secret-key-cards)
+
 
 ## Raw Materials
 
@@ -157,7 +170,7 @@ For each node (6), do the following:
    Plastic Card Holder on the front of the block template.
 
 
-### First Transaction
+### First Network Transaction
 
 After we've introduced the node components, we'll pass out a 'first network transaction'.
 
