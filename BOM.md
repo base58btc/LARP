@@ -26,7 +26,7 @@ Here's all the things you'll need to buy to build a LARP gameset.
 | A1 Envelopes                   | blocks                 | 60        | https://www.amazon.com/dp/B01N019WJY                                 | https://www.amazon.de/-/en/dp/B09686DPGK             |
 | Plastic card holders           | blocks                 | 60        | https://www.amazon.com/gp/B0B8S74R5M                                 | https://www.amazon.de/-/en/dp/B0BNGTLMPG             |
 | Block Header Cards             | blocks                 | 120       | https://www.canva.com/design/DAFzVGRJh-s/4WPC0fIUWMn50sJQNgXg2w/edit |                                                      |
-| Key + Lock Stickers            | txs                    | 72        | TBD                                                                  |                                                      |
+| Key + Lock Stickers            | txs                    | 84        | TBD                                                                  |                                                      |
 | Glossy Cards (need hole punch) | network mesg           | 30 each   | https://www.canva.com/design/DAFzQuQt36E/i4_smxo7mxfpyMrcoXhmwQ/edit |                                                      |
 | Miners (order with shell!)     | mining                 | 6         | https://www.aliexpress.us/item/3256803403391540.html                 | https://shop.lnbits.com/product/bitcoin-lnpos-device |
 | Scissors                       | network                | 1         | https://www.amazon.com/dp/B00D05BJDE                                 | https://www.amazon.de/-/en/dp/B0B1HC9KJC             |

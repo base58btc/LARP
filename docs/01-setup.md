@@ -52,8 +52,8 @@ and how to make each of the required parts.
 	- 10 blank Block Header cards
 	- 30 blank Transaction cards
 	FIXME: sticker page format?
-	- 6 Key sticker pages (1 of each color)
-	- 6 Lock sticker pages (1 of each color)
+	- 7 Key sticker pages (1 of each secret key color, plus black)
+	- 7 Lock sticker pages (1 of each secret key color, plus black)
 	- 1 Self-inking approved stamp
 	- 1 Secret Key Card
 	- 3 Ballpoint pents
