@@ -2,7 +2,17 @@
 
 Before you start the LARP you'll need to do some prep work.
 
-Estimated time: 5m
+Estimated time:
+
+- To build/put together node materials: 20m
+- To assemble materials for each node: 10m
+
+If it's your first time playing, you'll need more time to do initial setup.
+A lot of the parts can be re-used thereafter.
+
+You'll probably want to re-create the Genesis + First Network Transactions
+every game though. This is the most time consuming part of the game.
+
 
 ## Table of Contents
 
@@ -114,7 +124,7 @@ For each basket:
 
 Every block will be constructed with a block template and a block header.
 
-You'll need to put the block templates together. 
+You'll need to put the block templates together.
 
 FIXME: picture of an empty block template
 
@@ -145,7 +155,7 @@ FIXME: picture of a genesis transaction.
 
 - 6 blank transaction cards
 
-#### Steps 
+#### Steps
 
 For each node (6), do the following.
 
@@ -188,7 +198,7 @@ We'll need the following materials to build genesis blocks for each of the nodes
 
 For each node (6), do the following:
 
-1. Place the Genesis Transaction inside the 
+1. Place the Genesis Transaction inside the
    Block Template envelope.
 2. On the Block Header Card, write the following:
 	- prev block hash: 000000
@@ -220,7 +230,7 @@ For each node (6), do the following.
 1. Take a blank transaction card
 2. Write "cat72" as the txid
 3. Fill in the input with the following:
-    - transaction id: "eagle33" 
+    - transaction id: "eagle33"
 	- #: "0"
 	- signature: leave blank
 4. Fill in the outputs with the following

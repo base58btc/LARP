@@ -8,6 +8,9 @@ This introduces us to blocks, transactions, coinbases,
 validation, and the 'genesis' block.
 
 
+Estimated time: 15m
+
+
 ## Table of Contents
 
   * [Materials Used](#materials-used)

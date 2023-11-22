@@ -5,6 +5,9 @@ We've now had a whirlwind introduction to blocks and transactions.
 Let's slow down a bit and spend some time validating and writing
 our own transaction from scratch.
 
+Estimated time: 15m
+
+
 ## Table of Contents
 
   * [Materials Used](#materials-used)
