@@ -216,7 +216,7 @@ those steps for every transaction we receive.
 - If this transaction DOES NOT pass all the checks, tear
   it up + discard it
 
-Insctructor Script:
+Instructor Script:
 
 	ACTION: Walk back to the node that's received the
 	transaction. Have them walk through the validation

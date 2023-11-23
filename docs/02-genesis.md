@@ -179,7 +179,7 @@ Instructor script:
 _Protocol Note_: The first ever coinbase transaction in the
 genesis block technically *isn't* included in the UTXO set.
 Because it's not in the UTXO set, it's considered unspendable.
-This was probably a mistake on Satohi's part, but we're keeping
+This was probably a mistake on Satoshi's part, but we're keeping
 things that way. The LARP game doesn't follow the protocol
 exactly: we add our genesis transaction to the UTXO set, which
 makes all of the outputs on it eligible to be spent in other

@@ -134,4 +134,6 @@ and online class offerings on our website [Base58⛓️🔓](https://base58.scho
 ## Authors
 
 @niftynei is mainly responsible.
+Enormous thanks to @murchandamus for his initial feedback, review, and assistance in
+running the original LARP game.
 

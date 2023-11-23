@@ -6,7 +6,7 @@ the most chaotic and difficult to manage, as the power
 of decentralization really starts showing up.
 
 We'll be learning how to mine for blocks, send blocks
-around the network, and validate them when you recieve
+around the network, and validate them when you receive
 them.
 
 Estimated Time: 30 to 40m
@@ -262,7 +262,7 @@ Instructor Script:
 
 ### Validating Block Transactions
 
-Making sure the block has ok transactions is probably the most
+Making sure the block has valid transactions is probably the most
 labor intensive part of this. If a node is missing a transaction
 they'll have to use network messages to ask for it from their peers.
 

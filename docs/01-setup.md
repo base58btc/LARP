@@ -21,7 +21,7 @@ every game though. This is the most time consuming part of the game.
   * [Other Facilitators](#other-facilitators)
   * [Rewards for Nodes](#rewards-for-nodes)
   * [Materials for Each Node](#materials-for-each-node)
-  * [Pursposeful Mistakes](#purposeful-mistakes)
+  * [Purposeful Mistakes](#purposeful-mistakes)
   * [Things to Build / Put Together](#things-to-build-put-together)
     * [Mempool + UTXO Baskets](#mempool-utxo-baskets)
     * [Block Templates](#block-templates)
@@ -131,7 +131,7 @@ the LARP. It's recommended that you recreate a fresh set before every LARP.
 
 ### Mempool + UTXO Baskets
 
-These are for transactions that your node has recieved, either from
+These are for transactions that your node has received, either from
 the network or inside a block.
 
 They need to be labeled before playing.
@@ -205,7 +205,7 @@ For each node (6), do the following.
 	- pubkey: place a blue lock sticker
    #2
 	- amount: 8
-	- pubkey: place a pink  ock sticker
+	- pubkey: place a pink  lock sticker
    #3
 	- amount: 8
 	- pubkey: place a yellow lock sticker

@@ -160,7 +160,7 @@ itself and uniquely identify that transaction. This is done using a SHA256
 hash of a transaction's contents. We don't have an easy way to hash transaction
 data so instead we just pick a random one. If students pick the same txid,
 you will run into problems. This may be fine, or not, depending. Generally
-I let chaos + problems run for a bit, so partcipants can experience the
+I let chaos + problems run for a bit, so participants can experience the
 downsides of certain protocol choices (like allowing there to be duplicate txids).
 
 There have been two cases of duplicate transaction ids in the protocol. This
@@ -318,7 +318,7 @@ Instructor Script:
 	for the miner, otherwise they might not include your transaction in a block.
 
 
-## Adding Transctions to the Mempool
+## Adding Transactions to the Mempool
 
 Instructor Script:
 

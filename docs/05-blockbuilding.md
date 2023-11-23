@@ -52,7 +52,7 @@ Instructor Script:
 
 ## Picking Transactions for a Block
 
-Instuctor Script:
+Instructor Script:
 
 	For our LARP, each block can fit a total of *four*
 	transactions. This means we can pick *three* network
@@ -192,7 +192,7 @@ Instructor Script:
 _Protocol Note_: Astute participants and facilitators may realize that it's
 quite easy to make a new transaction that reuses the same number from the
 transaction id of the transaction you want to replace in a block. In the
-bitcoin protocol, they use something called a Merkel Root, which is practically
+bitcoin protocol, they use something called a Merkle Root, which is practically
 impossible to swap a transaction out and get the same root.
 
 We can't calculate a Merkle Root for the LARP, as it's a bit too complex. Instead
