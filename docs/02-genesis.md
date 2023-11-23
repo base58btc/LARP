@@ -296,7 +296,7 @@ Instructor Script
 
 	What blockhash did everyone get for the genesis block?
 
-	A: FIXME: find this
+	A: FIXME: blockhash of genesis block
 
 	Is this a valid blockhash?
 
