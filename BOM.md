@@ -32,6 +32,8 @@ Here's all the things you'll need to buy to build a LARP gameset.
 | Scissors                       | network                | 1         | https://www.amazon.com/dp/B00D05BJDE                                 | https://www.amazon.de/-/en/dp/B0B1HC9KJC             |
 | Transaction Cards              | transactions           | 400       | https://www.canva.com/design/DAFzVIzt80M/MC3A4psOfR4z52KZIruZTg/edit |                                                      |
 | Labels for Mempool + UTXO set  | mempool                | 6 each    | https://www.canva.com/design/DAFzVBZtcYw/cQMC9BBufOjgU2rveR22Tg/edit |                                                      |
+| Block Validation Checklist     | verifying blocks       | 6         | https://www.canva.com/design/DAF0860AZf0/FyIfj814ms3nJNUjyo1zzA/edit |                                                      |
+| Tx Validation Checklist        | verifying transactions | 6         | https://www.canva.com/design/DAF0860AZf0/FyIfj814ms3nJNUjyo1zzA/edit |                                                      |
 
 
 ### Optional Items

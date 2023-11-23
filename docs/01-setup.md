@@ -92,6 +92,7 @@ and how to make each of the required parts.
 	- 1 Blockchain (Index Card Case w/ Genesis Block)
 	- 10 Block Templates
 	- 10 blank Block Header cards
+	- 10 blank Compact Block cards
 	- 30 blank Transaction cards
 	FIXME: sticker page format?
 	- 7 Key sticker pages (1 of each secret key color, plus black)
@@ -105,7 +106,8 @@ and how to make each of the required parts.
 	- 5 Send Transactions network cards
 	- 5 I Have Blocks network cards
 	- 5 Send Blocks network cards
-	FIXME: do we have table cheatsheets?
+	- 1 Transaction + Block Validation Checklist
+	- 1 Node Scorecard
 
 ## Purposeful Mistakes
 

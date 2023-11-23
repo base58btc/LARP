@@ -52,6 +52,9 @@ node basket as part of [Unpacking bitcoin-core](#unpacking-bitcoin-core)).
 	- blank transactions
 	- blank block headers
 	- blank block templates
+	- blank compact block cards
+	- node scorecard
+	- tx + block verification checklists
 
 
 ## Unpacking bitcoin-core
@@ -82,6 +85,11 @@ by one as you take things out and put them on the table.
   to validate blocks and to mine new ones.
 - *network cards*: These our are network cards, they let
   us send messages to other nodes on the network.
+- *compact block txid cards*: Used for sending info about blocks
+  to our peers over the network.
+- *node scorecard*: For tallying node scores at the end.
+- *tx and block verification checklists*: Useful for verifying
+  data we receive over the network.
 - *mempool + utxo baskets*: These are our baskets for
   transactions we get over the network.
 - *secret key card*: This is your node's secret key.

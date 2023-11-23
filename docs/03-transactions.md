@@ -36,6 +36,7 @@ In this phase of the LARP, we'll use the following items:
 	- lock stickers
 	- ballpoint pens
 	- the mempool basket
+	- transaction verification checklist
 
 
 ## Network Transactions
@@ -67,6 +68,9 @@ find outputs that an input is spending.
 
 Here we run into our second [intentional mistake](#purposeful-mistakes): the first
 network transaction is missing its signature.
+
+Have nodes use the Transaction Validation checklist card to follow along,
+checking off items with their dry erase marker.
 
 
 Instructor Script:

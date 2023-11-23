@@ -32,9 +32,10 @@ In this phase of the LARP, we'll use the following items:
 	- the BASICs
 	- block templates
 	- ballpoint pens
-	- compact block cards
+	- compact block txid cards
 	- all the network cards
 	- dry erase marker
+	- block validation checklist
 	- supplies to copy transactions
 		- ballpoint pens
 		- blank tx cards
@@ -211,6 +212,9 @@ Instructor Script:
 ## Validating a Block
 
 Let's make sure our block is valid!
+
+Have nodes use the Block Validation checklist card to follow along,
+checking off items with their dry erase marker.
 
 Instructor Script:
 

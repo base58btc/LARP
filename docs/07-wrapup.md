@@ -17,7 +17,8 @@ Estimated time: 15m
 In this phase of the LARP, we'll use the following items:
 
 	- ballpoint pens
-	- Score Cards
+	- node score cards
+	- master score card notepad
 
 
 ## Achieving Our Goals
@@ -89,10 +90,12 @@ Here's a short checklist of what to discard and reset for next time.
   - cut string
   - used blockheaders
   - used transaction cards
-  - used compact blocks
+  - used compact block cards
   - used score cards
   - used Master Score card
 - wipe any dry erase marker off any network cards
+- wipe any dry erase marker off the transaction validation cards
+- wipe any dry erase marker off the block validation cards
 - sort network cards into 6 groups, with 5 of each type
 - sort key + lock stickers into 6 sets of each color
 - pack up:
