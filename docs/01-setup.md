@@ -18,6 +18,8 @@ every game though. This is the most time consuming part of the game.
 
   * [To Start](#to-start)
   * [Room Configuration](#room-configuration)
+  * [Other Facilitators](#other-facilitators)
+  * [Rewards for Nodes](#rewards-for-nodes)
   * [Materials for Each Node](#materials-for-each-node)
   * [Pursposeful Mistakes](#purposeful-mistakes)
   * [Things to Build / Put Together](#things-to-build-put-together)
@@ -43,6 +45,36 @@ You'll need 6 tables that are approximately arm's length
 enough chairs for 2-6 players.
 
 A cafe table or banquet setup often works quite well.
+
+## Other Facilitators
+
+Running a LARP is a lot of new information and steps. We
+highly recommend having assistants or experienced LARPers
+(or Bitcoiners) at each table or so in order to help participants
+not fall behind.
+
+You can run it with a single facilitator, however we'd recommend
+extending the amount of time allotted for each phase for additional
+time to help each node complete the steps.
+
+
+## Rewards for Nodes
+
+There's two phases which are competitive in the game: [getting transactions
+into mempools](docs/04-networking.md#goals-for-this-phase) and the final gameplay of [mining blocks](#docs/07-wrapup.md#achieving-our-goals).
+
+You don't have to hand out Rewards but it definitely makes participating
+more rewarding.
+
+
+Here's some ideas of what to hand out:
+
+- An additional miner for your node (mempool only phase)
+- Candy or individually wrapped chocolates
+- Stickers
+- Satoshis over Lightning
+- [Conference ticket](https://btcpp.dev) discount codes
+- Vouchers for upcoming [Base58](https://base58.school) classes
 
 
 ## Materials for Each Node

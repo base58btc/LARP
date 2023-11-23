@@ -300,6 +300,8 @@ easily with a group of people.
 
 ### Who Has the Most Txs?
 
+Note: See section in [Setup](docs/01-setup#rewards-for-nodes) about what to use as a Reward.
+
 Instructor Script:
 
 	Ok, let's see who's got the most transactions in their mempool.

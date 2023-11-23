@@ -24,6 +24,8 @@ In this phase of the LARP, we'll use the following items:
 
 Let's see who did the best job earning bitcoin across the network!
 
+Note: See section in [Setup](docs/01-setup#rewards-for-nodes) about what to use as a Reward.
+
 Instructor Script:
 
 	Ok. Who did the best job of getting their blocks out to the
