@@ -4,6 +4,11 @@
 
 ## Table of Contents
 
+  * [About the Game](#about-the-game)
+  * [Where to Start](#where-to-start)
+  * [Instructor Tutorial Videos](#instructor-tutorial-videos)
+  * [Geyser Campaign to Build 50 LARP Gamesets](#geyser-campaign)
+  * [Past LARPs](#past-larps)
 
 ## About the Game
 
@@ -50,10 +55,27 @@ You can also follow the instructor tutorial videos below.
 
 ## Instructor Tutorial Videos
 
+FIXME: make instructor tutorial videos
 
 
-## Geyser Campaign to Build 50 LARP gamesets
+## Geyser Campaign
+
+We're running a Geyser campaign to build and distribute 50 LARP gamesets
+for Bitcoin communities and classrooms around the world.
+
+Help us reach our funding goal and spead the Bitcoin LARP into classrooms
+and communities around the world!
+
+Donate to our campaign here: [Geyser Fund](https://geyser.fund/project/base58sworldfamousbitcoinlarp)
+
+If you're a community organizer or educator, you can apply to receive one
+of these kits here: [Typeform](https://ykdl62lcpgz.typeform.com/larp50).
 
 
 ## Past LARPs
 
+Here's some videos and images from past LARPs!
+
+* At [TABConf, 2021](https://www.youtube.com/watch?v=vVTRO6Kmnug)
+* A [Promo Video](https://bitcointv.com/w/osFPTGyrTzMDXSwHCchaae?start=0s) Recorded in Houston, 2022
+* [GIF of a LARP](https://twitter.com/PraneethGunas/status/1714150490110390437) run in Italy, Oct 2023
