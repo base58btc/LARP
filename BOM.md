@@ -35,6 +35,7 @@ Here's all the things you'll need to buy to build a LARP gameset.
 | Block Validation Checklist     | verifying blocks       | 6         | https://www.canva.com/design/DAF0860AZf0/FyIfj814ms3nJNUjyo1zzA/edit |                                                      |
 | Tx Validation Checklist        | verifying transactions | 6         | https://www.canva.com/design/DAF0860AZf0/FyIfj814ms3nJNUjyo1zzA/edit |                                                      |
 
+For more information about building and flashing the Miners, see the [BASIC](https://github.com/niftynei/BASIC/tree/0a3476e0eb13387fbfed473aa121b1013fcd55e3) repository.
 
 ### Optional Items
 
