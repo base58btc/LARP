@@ -197,18 +197,22 @@ For each node (6), do the following.
 2. Write "eagle33" as the txid
 3. Write a large X over the inputs section.
 4. Fill in the outputs with the following
-	#0
-	- amount: 25
-	- pubkey: place a green lock sticker
-   #1
-    - amount: 8
-	- pubkey: place a blue lock sticker
-   #2
-	- amount: 8
-	- pubkey: place a pink  lock sticker
-   #3
-	- amount: 8
-	- pubkey: place a yellow lock sticker
+
+### Output #0
+- **Amount:** 25
+- **Pubkey:** place a green lock sticker
+
+### Output #1
+- **Amount:** 8
+- **Pubkey:** place a blue lock sticker
+
+### Output #2
+- **Amount:** 8
+- **Pubkey:** place a pink lock sticker
+
+### Output #3
+- **Amount:** 8
+- **Pubkey:** place a yellow lock sticker
 
 
 ### Genesis Blocks
@@ -268,15 +272,16 @@ For each node (6), do the following.
 	- #: "0"
 	- signature: leave blank
 4. Fill in the outputs with the following
-	#0
-	- amount: 8
-	- pubkey: place a green lock sticker
-   #1
-    - amount: 8
-	- pubkey: place a purple lock sticker
-   #2
-	- amount: 8
-	- pubkey: place a red lock sticker
+	
+### Output #0
+- **Amount:** 8
+- **Pubkey:** place a green lock sticker
+### Output #1
+- **Amount:** 8
+- **Pubkey:** place a purple lock sticker
+### Output #2
+- **Amount:** 8
+- **Pubkey:** place a red lock sticker
 
 
 ### Blockchain
@@ -312,4 +317,3 @@ FIXME: photos of secret key cards!
 	- 1 Pink secret key card
 	- 1 Purple secret key card
 	- 1 Red secret key card
-
