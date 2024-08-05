@@ -57,7 +57,7 @@ Instructor Script:
 
 	Don't trust, verify.
 
-	There's a few steps to verifying a node. Let's go through them
+	There's a few steps to verifying a transaction. Let's go through them
 	together.
 
 
