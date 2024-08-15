@@ -205,7 +205,7 @@ Instructor Script:
 
 Instructor Script:
 
-	We've now got one confired transaction in the UTXO set and one
+	We've now got one confirmed transaction in the UTXO set and one
 	transaction waiting to be confirmed in the mempool.
 
 	Looking across both the confirmed and unconfirmed transactions,
