@@ -158,7 +158,7 @@ network before building the next block.
 
 Instructor Script:
 
-	I Have Block messages work almost identically to I Have Transction
+	I Have Block messages work almost identically to I Have Transaction
 	messages. If you don't have the blocks listed on the message,
 	you should request them.
 
@@ -283,15 +283,15 @@ Instructor Script:
 	Ok everyone has the transactions they need to validate this block.
 
 	If you aren't able to find the transactions or if one of the transactions
-	is already in the UTXO set, this block is valid and you can discard it.
+	is already in the UTXO set, this block is invalid and you can discard it.
 
 	This is a valid block though, and everyone has the transactions they need.
 
 	Let's first check the coinbase transaction. It should have no inputs,
 	a valid txid, and the output value should be less than or equal to
-	50 plus whatever fees the tranactions pay.
+	50 plus whatever fees the transactions pay.
 
-	How many fees do the other trasaction in the block pay?
+	How many fees do the other transactions in the block pay?
 
 	A: <varies, depending on game>
 

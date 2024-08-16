@@ -63,7 +63,7 @@ FIXME: make instructor tutorial videos
 We're running a Geyser campaign to build and distribute 50 LARP gamesets
 for Bitcoin communities and classrooms around the world.
 
-Help us reach our funding goal and spead the Bitcoin LARP into classrooms
+Help us reach our funding goal and spread the Bitcoin LARP into classrooms
 and communities around the world!
 
 Donate to our campaign here: [Geyser Fund](https://geyser.fund/project/base58sworldfamousbitcoinlarp)

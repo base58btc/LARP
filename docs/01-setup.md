@@ -99,7 +99,7 @@ and how to make each of the required parts.
 	- 7 Lock sticker pages (1 of each secret key color, plus black)
 	- 1 Self-inking approved stamp
 	- 1 Secret Key Card
-	- 3 Ballpoint pents
+	- 3 Ballpoint pens
 	- 1 Dry erase marker
 	- 1 Miner
 	- 5 I Have Transactions network cards
