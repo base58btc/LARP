@@ -101,7 +101,7 @@ Instructor Script:
 
 	Now we just need to figure out how much we can send ourselves
 	in the coinbase. Find the lock that corresponds to your
-	node's secret key and place this on the first ouput.
+	node's secret key and place this on the first output.
 
 	ACTION: Place your own black lock on the output and hold it
 	up so nodes can see + copy what you've done.
